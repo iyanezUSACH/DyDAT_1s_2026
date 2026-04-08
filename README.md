@@ -8,7 +8,7 @@
     <strong>Universidad de Santiago de Chile</strong><br>
     <strong>Facultad de Ingeniería</strong><br>
     <strong>Departamento de Ingeniería Geoespacial y Ambiental</strong><br>
-    <em>2do Semestre 2025</em>
+    <em>1er Semestre 2026</em>
   </p>
 </div>
 
@@ -87,17 +87,17 @@ Para tener una copia local de todos los materiales del curso en tu computador, s
 
     * **Opción 1 (HTTPS):**
         ```bash
-        git clone [https://github.com/iyanezUSACH/DyDAT_2s_2025.git](https://github.com/iyanezUSACH/DyDAT_2s_2025.git)
+        git clone [https://github.com/iyanezUSACH/DyDAT_2s_2026.git](https://github.com/iyanezUSACH/DyDAT_2s_2026.git)
         ```
 
     * **Opción 2 (SSH, para usuarios avanzados):**
         ```bash
-        git clone git@github.com:iyanezUSACH/DyDAT_2s_2025.git
+        git clone git@github.com:iyanezUSACH/DyDAT_2s_2026.git
         ```
 
 4.  **Ingresa a la carpeta** que acabas de crear:
     ```bash
-    cd DyDAT_2s_2025
+    cd DyDAT_2s_2026
     ```
 
 ✅ ¡Listo! Ahora tienes todos los archivos del curso en tu computador. Para actualizarlos más adelante, solo necesitarás navegar a esta carpeta y ejecutar el comando `git pull`.
@@ -113,7 +113,7 @@ Para tener una copia local de todos los materiales del curso en tu computador, s
 <div style="text-align: justify;">
 ¡Bienvenidas y bienvenidos! Soy **Ignacio Yáñez Henríquez**, y seré su profesor en este viaje por el Diseño y Desarrollo de Aplicaciones Territoriales. Al igual que ustedes, soy **Ingeniero Civil en Geografía, titulado de esta misma casa de estudios, la Universidad de Santiago de Chile** 🎓.
 
-Mi carrera profesional de **más de 15 años** 💼 se ha centrado en conectar el análisis espacial con soluciones tecnológicas de alto impacto. He tenido la oportunidad de liderar y gestionar proyectos SIG en entornos tan desafiantes como la gran minería, trabajando para **Codelco en la División El Teniente** ⛏️, y más recientemente, como **Mining Industry Manager en Esri Chile S.A.**, la empresa líder a nivel mundial en tecnología geoespacial 🗺️.
+Mi carrera profesional de **más de 15 años** 💼 se ha centrado en conectar el análisis espacial con soluciones tecnológicas de alto impacto. He tenido la oportunidad de liderar y gestionar proyectos SIG en entornos tan desafiantes como la gran minería, trabajando para **Codelco en la División El Teniente** ⛏️, y más recientemente, como **Senior Solution Architect en Esri Chile SpA**, la empresa líder a nivel mundial en tecnología geoespacial 🗺️.
 
 Esta trayectoria me ha permitido no solo administrar y operar arquitecturas de datos geoespaciales complejas, sino también estar en la primera línea del desarrollo de aplicaciones 📱. Mi experiencia abarca desde plataformas consolidadas como **ArcGIS Enterprise, Pro y Online**, hasta la creación de soluciones específicas con **Experience Builder, Dashboards y aplicaciones móviles como FieldMaps y Survey123**.
 
