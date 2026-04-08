@@ -87,7 +87,7 @@ Para tener una copia local de todos los materiales del curso en tu computador, s
 
     * **Opción 1 (HTTPS):**
         ```bash
-        git clone [https://github.com/iyanezUSACH/DyDAT_2s_2026.git](https://github.com/iyanezUSACH/DyDAT_2s_2026.git)
+        git clone git clone https://github.com/iyanezUSACH/DyDAT_2s_2026.git
         ```
 
     * **Opción 2 (SSH, para usuarios avanzados):**
