@@ -106,10 +106,6 @@ Para tener una copia local de todos los materiales del curso en tu computador, s
 
 ## 👨‍🏫 **Acerca del Profesor: Ignacio Yáñez Henríquez**
 
-<div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D4E03AQHiWvvaTsfTWA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715806964843?e=1758153600&v=beta&t=CdRTNL576zh0Dt_H7dLl8shHliJLB-LdRRapYfVAkpI" width="25%" style="border-radius: 50%;">
-</div>
-
 <div style="text-align: justify;">
 ¡Bienvenidas y bienvenidos! Soy Ignacio Yáñez Henríquez, y seré su profesor en este viaje por el Diseño y Desarrollo de Aplicaciones Territoriales. Al igual que ustedes, soy **Ingeniero Civil en Geografía, titulado de esta misma casa de estudios, la Universidad de Santiago de Chile** 🎓.
 
