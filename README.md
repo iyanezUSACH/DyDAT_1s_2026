@@ -107,7 +107,7 @@ Para tener una copia local de todos los materiales del curso en tu computador, s
 ## 👨‍🏫 **Acerca del Profesor: Ignacio Yáñez Henríquez**
 
 <div style="text-align: justify;">
-¡Bienvenidas y bienvenidos! Soy Ignacio Yáñez Henríquez, y seré su profesor en este viaje por el Diseño y Desarrollo de Aplicaciones Territoriales. Al igual que ustedes, soy **Ingeniero Civil en Geografía, titulado de esta misma casa de estudios, la Universidad de Santiago de Chile** 🎓.
+¡Bienvenidas y bienvenidos! Soy Ignacio Yáñez Henríquez, y seré su profesor en este viaje por el Diseño y Desarrollo de Aplicaciones Territoriales. Al igual que ustedes, soy Ingeniero Civil en Geografía, titulado de esta misma casa de estudios, la Universidad de Santiago de Chile🎓.
 
 Mi carrera profesional de **más de 15 años** 💼 se ha centrado en conectar el análisis espacial con soluciones tecnológicas de alto impacto. He tenido la oportunidad de liderar y gestionar proyectos SIG en entornos tan desafiantes como la gran minería, trabajando para **Codelco en la División El Teniente** ⛏️, y más recientemente, como **Senior Solution Architect en Esri Chile SpA**, la empresa líder a nivel mundial en tecnología geoespacial 🗺️.
 
